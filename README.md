@@ -57,3 +57,11 @@ cd ~/simatch-docker
 
 Likewise for the magenta team replace cyan by magenta.
 
+If you want to start all of the above on one computer:
+```
+cd ~/simatch-docker
+./run.sh simatch roslaunch simatch_cyan.launch
+```
+
+Again replace cyan by magenta if you like.
+
