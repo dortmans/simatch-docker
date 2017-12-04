@@ -18,6 +18,7 @@ Adding user to "docker" group allows you to use docker commands without sudo:
 ```
 sudo usermod -aG docker ${USER}
 ```
+Remember that you will have to log out and back in for this to take effect!
 
 Now download the simatch-docker workspace from GitHub:
 ```
